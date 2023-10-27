@@ -1,0 +1,6 @@
+admin, admin@admin.com, 1234, Adita, Rahman, 28
+admin, jack@admin.com, 4567, Jack, Son, 30
+manager, mahila@mail.com, 123, Mahila, Mou, 24
+manager, nila@mail.com, 123, Nila, Hasan, 24
+user, cctvprice29@gmail.com, 123456, shipo, Rahman, 34
+user, ssa@gmail.com, 123, ssa, Akther, 23
